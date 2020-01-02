@@ -29,7 +29,7 @@
         "symfony/framework-bundle": "^3.4|^4.2|^5.0",
         "symfony/process": "^3.4|^4.2|^5.0",
         "symfony/yaml": "^3.4|^4.2|^5.0"
-    }
+    },
     "suggest": {
         "behat/mink-browserkit-driver": "^1.3"
     },
